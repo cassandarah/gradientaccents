@@ -11,3 +11,5 @@ remote_theme_layouts:
   - page
   - post
   - home
+
+theme: jekyll-theme-cayman
