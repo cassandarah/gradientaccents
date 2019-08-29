@@ -1,9 +1,9 @@
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
-github_repo: jekyll
-github_username: jekyll
-social_link: twitter
-social_username: jekyllrb
+title: 'Gradient Accents '
+description: Where movies come together
+github_repo: Preacher 6
+github_username: GradientAccent
+social_link: 'https://twitter.com/'
+social_username: PreacherSix
 theme_color: black
 remote_theme: broccolini/swiss
 remote_theme_layouts:
