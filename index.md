@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Gradient Accents
 permalink: gradientaccents/preacher6
 
 ---
